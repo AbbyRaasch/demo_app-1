@@ -5,3 +5,5 @@ This is the demonstration application for [*Ruby on Rails Tutorial: Learn Rails 
 This is a change to the readme file
 
 This is some more changes to the readme file
+
+This also will be the last of these changes.
