@@ -1,9 +1,2 @@
-# Ruby on Rails Tutorial: demonstration application
-
-This is the demonstration application for [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org) by [Michael Hartl](http://michaelhartl.com)
-
-This is a change to the readme file
-
-This is some more changes to the readme file
-
-This also will be the last of these changes.
+I Are In You README File
+F#@&ing Up It's Contents
